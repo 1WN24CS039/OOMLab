@@ -1,0 +1,9 @@
+# Track only the five system folders, this file and the README.
+/*
+!/.gitignore
+!/README.md
+!/Hotel Management System/
+!/Credit Card Management System/
+!/Library Management System/
+!/Stock Maintenance System/
+!/Passport Automation System/
