@@ -33,7 +33,7 @@ Department of Computer Science and Engineering
 | **Class Diagram** | Static structure: classes, attributes, operations, associations, multiplicities, generalisation, aggregation and composition. |
 | **State Diagram** | Lifecycle of the main business object: states, events, guards, actions, composite states and concurrent regions. |
 | **Use Case Diagram** | System boundary, actors and their goals, with «include» and «extend» relationships. |
-| **Sequence Diagram** | Time-ordered interaction between participants, with combined fragments (alt, opt, loop). |
+| **Sequence Diagram** | Time-ordered interaction between participants, with combined fragments (alt, opt, loop, break). |
 | **Activity Diagram** | End-to-end workflow without swimlanes: decisions, merges, forks and joins, object nodes, signals and interruptible regions. |
 
 ## Repository structure
